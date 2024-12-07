@@ -38,7 +38,7 @@ bcrypt (Password hashing)
 
 Clone the repo:
 
-git clone https://github.com/your-username/jobportal.git cd jobportal
+git clone https://github.com/pratistha16/jobportal.git cd jobportal
 
 Install dependencies:
 
